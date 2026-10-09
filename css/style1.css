@@ -49,6 +49,7 @@ h2{
     align-items: center;
     margin-top: 20px;
 }
+<<<<<<< Updated upstream:css/style1.css
 .links {
 
     display: flex;
@@ -68,3 +69,5 @@ a:hover{
     transform: scale(1.1);
     background-color: #acd87f;
 }
+=======
+>>>>>>> Stashed changes:css/style2.css
