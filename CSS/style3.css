@@ -26,7 +26,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 350px;
+    margin-left: 100px;
 }
 .p1{
 
@@ -47,7 +47,9 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 50px;
+    margin-left: -210px;
+    
 }
 .links {
 
